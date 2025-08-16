@@ -418,7 +418,7 @@ html[dir="rtl"] body {
 
 /* Background for welcome page */
 .welcome-page {
-    background-image: url('welcome-bg.png');
+    background-image: url("./welcome-bg.png");
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center;
